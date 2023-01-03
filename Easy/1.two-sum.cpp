@@ -49,7 +49,7 @@ public:
 
 int main(void)
 {
-    test_tw/oSum();
+    test_twoSum();
     return (0);
 }*/
 // @lc code=end
